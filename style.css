@@ -1,0 +1,12 @@
+hr{
+    border-top: 1px solid black;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffd5;
+}
+p{
+    text-align:justify;}
+.contato{
+    display: block;
+}
